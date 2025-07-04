@@ -1,9 +1,7 @@
 # Ejemplo Git
 Este es un ejemplo para la clase de Django en la [Universidad de Comfenalco Santander](https://www.unc.edu.co/curso-de-fundamentos-de-django/)
-
 ## Instructora: 
 - Yurley Sanchez: [Yursksf1](https://github.com/Yursksf1)
-
 ## Integrantes 
 - Carlos Andres
 - Julio Silva: [Julitosh07](https://github.com/Julitosh07)
